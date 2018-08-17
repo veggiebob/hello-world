@@ -1,2 +1,5 @@
 # hello-world
-first git thingy
+first git thingy 
+=================
+Wow it's soooo cool
+
